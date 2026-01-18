@@ -1,1 +1,1 @@
-This is my setup for NeoVim
+Say Hello to dat mafaka
