@@ -16,6 +16,9 @@ return {
 				"html",
 				"css",
 				"javascript",
+				"go",
+				"rust",
+				"python",
 			},
 
 			-- Install parsers synchronously (only applied to `ensure_installed`)
